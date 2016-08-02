@@ -1,0 +1,19 @@
+0002:There exists two points [0] A ( 3,4 ) and [1] B ( 7 , v ) , the [2] distance between [3] A and [4] B is 5 . What is the value of v ? 
+
+0004:There is a [0] line , the [1] slope of it is 3 , the y-intercept of it is 2 . What is the slope intercept [2] form of this [3] line ? What is the general [4] form of this [5] line ? 
+
+0006:If the [0] equation of a [1] line p in the coordinate plane is y = 3x + 2 , what is the general [2] form of [3] line q which is a [4] reflection of [5] line p in the x-axis ? 
+
+0008:A [0] line passes through [1] [2] points ( 2,3 ) and ( 4 , v ) , the [3] slope of this [4] line is 5 . What is the value of v ? 
+
+0010:[0] Line A contains the [1] point ( 0,5 ) and is [2] perpendicular to the [3] line B 4y = x , what is the general [4] form of [5] line A ? 
+
+0014: What is the [0] center of the [1] circle described by the [2] equation â € ˜ ( X-2 ) ^ 2 + ( Y-3 ) ^ 2 = 4 â € ™ ? What is the [3] radius ? 
+
+0016:Find the [0] equation of the [1] line that contains the [2] point ( 0,5 ) and is [3] perpendicular to the [4] line y = ( 1/4 ) x ? 
+
+0018:Given A ( 2,3 ) and B ( 5,8 ) , write an [0] equation of a [1] line [2] parallel to AB containing the [3] point P ( - 2 , - 4 ). 
+
+0020:In the xy-plane , the graph of the [0] equation y = 3x + 5 is a [1] line that [2] intersects the y-axis at ( 0 , b ) , what is the value of b ? 
+
+0022:The [0] [1] points ( 3 , v ) and ( 2,0 ) fall on a [2] line with a [3] slope of 10 . What is the value of v ? 

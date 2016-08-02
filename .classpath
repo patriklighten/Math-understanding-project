@@ -1,13 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="src" path="target/generated-sources/antlr4"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+	<classpathentry kind="src" path="data"/>
+	<classpathentry kind="src" path="data.smile"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="lib/LBJ-2.8.1.jar"/>
+	<classpathentry kind="lib" path="lib/LBJ2.jar"/>
+	<classpathentry kind="lib" path="lib/LBJ2Library.jar"/>
+	<classpathentry kind="lib" path="lib/LBJChunk.jar"/>
+	<classpathentry kind="lib" path="lib/LBJCoref.jar"/>
+	<classpathentry kind="lib" path="lib/LBJPOS.jar"/>
+	<classpathentry kind="lib" path="lib/json_simple-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.11.jar"/>
+	<classpathentry kind="lib" path="lib/symja-2016-01-09.jar"/>
+	<classpathentry kind="lib" path="lib/COMMONS_MATH4_SYMJA.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/MathExpressionParsing"/>
+	<classpathentry kind="lib" path="lib/antlr-4.4-complete.jar"/>
+	<classpathentry kind="lib" path="lib/smile-core-1.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/smile-data-1.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/smile-graph-1.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/smile-math-1.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/smile-plot-1.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/javatuples-1.2.jar" sourcepath="lib/javatuples-1.2-sources.jar">
 		<attributes>
-			<attribute name="owner.project.facets" value="java"/>
+			<attribute name="javadoc_location" value="jar:file:/Users/bokang/code/mathparsing/lib/javatuples-1.2-javadoc.jar!/"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="lib/antlr-4.4-complete.jar"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
-	<classpathentry kind="output" path="build/classes"/>
+	<classpathentry kind="output" path="bin"/>
 </classpath>

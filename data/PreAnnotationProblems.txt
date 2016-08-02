@@ -1,0 +1,74 @@
+
+0002:There exists two points [0] A ( 3,4 ) and [1] B ( 7 , v ) , the [2] distance between [3] A and [4] B is 5 . What is the value of v ? 
+
+0004:There is a [0] line , the [1] slope of it is 3 , the [2] y-intercept of it is 2 . What is the slope intercept [3] form of this [4] line ? What is the general [5] form of this [6] line ? 
+
+0006:If the [0] equation of a line [1] p in the coordinate plane is [2] y = 3x + 2 , what is the general [3] form of line [4] q which is a [5] reflection of line [6] p in the x-axis ? 
+
+0008:A [0] line passes through points [1] ( 2,3 ) and [2] ( 4 , v ) , the [3] slope of this [4] line is 5 . What is the value of v ? 
+
+0010:Line [0] A contains the point [1] ( 0,5 ) and is [2] perpendicular to the line [3] B [4] 4y = x , what is the general [5] form of line [6] A ? 
+
+
+0014: What is the [0] center of the [1] circle described by the equation [2] â € ˜ ( X-2 ) ^ 2 + ( Y-3 ) ^ 2 = 4 â € ™ ? What is the [3] radius ? 
+
+
+0016:Find the [0] equation of the [1] line that contains the point [2] ( 0,5 ) and is [3] perpendicular to the line [4] y = ( 1/4 ) x ? 
+
+0018:Given [0] A ( 2,3 ) and [1] B ( 5,8 ) , write an [2] equation of a [3] line that [4] parallel to [5] line AB containing the point [6] P ( - 2 , - 4 ) . 
+
+0030:Assume a circle [0] C 's central [1] point is [2] CP ( - 1 , - 1 ) , and its [3] radius is 3 . There is a line [4] L of which the standard [5] form is [6] x-y-1 = 0 . 1 ) What is the relation between [7] C and [8] L ? 2 ) If they [9] intersect at two [10] [11] points , what are the value of two intersect [12] [13] points coordinates ? 3 ) Find the [14] distance between the [15] center of circle [16] CP and line [17] L ? 
+
+0038:At what [0] point does the graph of [1] 5x + 4y = 12 [2] intersect the [3] y-axis ? 
+
+0040:A [0] circle is [1] centered at the [2] origin and has a [3] radius of 2 units . A [4] line with a [5] slope of 2 passes through the [6] origin and [7] intersects the [8] circle in two places . Where does the [9] line [10] intersect the [11] circle ? 
+
+0042:The equation [0] y = 6 is graphed on the same coordinate axes as the [1] circle with center [2] ( 4,4 ) and [3] radius 3 . One of the [4] [5] points of [6] intersection of the [7] line and the [8] circle has x-coordinate 1.76 . What is the x coordinate of the other [9] point of [10] intersection ? 
+
+0048:Find the [0] radius of a [1] circle , if the tagent segment to the [2] circle is of 15 units long and [3] endpoint of the tagent [4] line is located in the [5] distance of 17 units from the [6] center of the [7] circle 
+
+0058:Find the [0] equation of the set of all [1] [2] points such that the sum of the [3] distances of [4] P ( x , y ) from [5] ( 0 , - 3 ) and [6] ( 0,3 ) is equal to 10 . 
+
+0060:Find the [0] slope of any [1] line [2] perpendicular to the [3] line through points [4] ( 0,5 ) and [5] ( - 3 , - 4 ) . 
+
+0064:The [0] line passing through [1] ( 7 , y ) and [2] ( 1,0 ) is [3] parallel to the [4] line joining [5] ( 4,4 ) and [6] ( - 2,1 ) . Find y . 
+
+0066:Find the [0] equation of the [1] line passing through [2] ( - 1,2 ) and [3] perpendicular to [4] y = 3x + 5 . 
+
+0068:Write the [0] equation of a [1] line that is [2] perpendicular to [3] y = - 5x-4 and passes through [4] ( - 35,10 ) . 
+
+0070:Write an [0] equation for the [1] line [2] parallel to AB [3] 3x + 2y = 12 that contains point [4] C ( 6 , - 2 ) . 
+
+0074:What is the [0] equation in point-slope [1] form for the [2] line [3] parallel to [4] y = - 6x + 1 that contains [5] J ( - 6,8 ) ? 
+
+0078:Find an [0] equation for the [1] line [2] perpendicular to the line [3] 4x-4y = - 9 , having the same [4] y-intercept [5] as-7x + 2y = - 3 . 
+
+0082:What are the [0] [1] equations of the [2] [3] lines [4] perpendicular to the line [5] x + 7y + 8 = 0 and passing at a [6] distance of 2 units from the [7] origin ? 
+
+0086:Find the [0] equation of the [1] line through the [2] point of [3] intersection of [4] 2x + 3y = 5 and [5] 3x-y = 2 , and which is [6] parallel to [7] 4y-x = 14 . 
+
+0088:Determine the [0] equation of the [1] line through [2] A ( - 5,1 ) such that the [3] distance from [4] B ( 3 , - 1 ) and [5] C ( - 3,2 ) to that [6] line is equal . 
+
+0090:Supose the diameter of a [0] circle is 50 feet long and has a [1] chord of 48 feet long . What is the [2] distance from the [3] center of the [4] circle to the [5] chord . 
+
+0092:A triangle with sides of 5 , 12 and 13 has both an [0] inscribed and a [1] circumscribed [2] circle . What is the [3] distance between the [4] [5] centers of those [6] [7] circles . 
+
+0094:Two [0] parallel [1] [2] chords 16 cm and 30 cm long are 23cm [3] apart . What is the [4] radius of the [5] circle ? 
+
+0128:In the xy-plane , [0] y = 2x + 3 and [1] y = mx + b are [2] parallel [3] [4] lines . What is the value of m ? 
+
+0136:What is the [0] equation of a [1] line passing through the [2] origin and [3] parallel to the line [4] 2x-y = 5 ? 
+
+0156:Find the [0] equation of the [1] circle that is [2] tangent to both the [3] x-axis and the [4] y-axis and the [5] distance from the [6] origin to its [7] center is 8 units . 
+
+0164:Line segment [0] AB [1] intersects line segment [2] ED in the middle at the point [3] C If [4] DC = 6 + x and [5] CE = 2x + 1 , find the value of x . 
+
+0166:If P is a [0] point on the circle [1] x ^ 2 + y ^ 2 = 9 and Q is a [2] point on the line [3] 7x + y + 3 = 0 and the [4] line is [5] perpendicular bisector of line [6] PQ , find the coordinet of P . 
+
+0182:Find the [0] equation of [1] circle passing through the [2] [3] points of [4] intersection of the lines [5] x + 3y = 0 and [6] 2x-7y = 0 and whose [7] center is [8] point of [9] intersection lines [10] x + y + 1 = 0 and [11] x-2y + 4 = 0 . 
+
+0184:Find the [0] distance ( rounded to the nearest thousandth ) from the point [1] ( - 5 , - 2 ) to the line [2] 3x + y = 8 . The [3] distance from a [4] point to a [5] line is the perpendicular [6] distance . 
+
+0186:Write an [0] equation of the [1] line that passes through the point [2] ( 4,4 ) and is [3] perpendicular to the [4] line whose [5] equation is [6] 2x + y = 7 . 
+
+
